@@ -1,0 +1,62 @@
+D:\SaleShoes\SaleShoes\bin\Debug\SaleShoes.exe.config
+D:\SaleShoes\SaleShoes\obj\Debug\SaleShoes.dangki.resources
+D:\SaleShoes\SaleShoes\obj\Debug\SaleShoes.dangnhap.resources
+D:\SaleShoes\SaleShoes\obj\Debug\SaleShoes.Properties.Resources.resources
+D:\SaleShoes\SaleShoes\obj\Debug\SaleShoes.quenmk.resources
+D:\SaleShoes\SaleShoes\obj\Debug\SaleShoes.csproj.GenerateResource.Cache
+D:\SaleShoes\SaleShoes\bin\Debug\SaleShoes.exe
+D:\SaleShoes\SaleShoes\bin\Debug\SaleShoes.pdb
+D:\SaleShoes\SaleShoes\bin\Debug\EntityFramework.dll
+D:\SaleShoes\SaleShoes\bin\Debug\EntityFramework.SqlServer.dll
+D:\SaleShoes\SaleShoes\bin\Debug\EntityFramework.xml
+D:\SaleShoes\SaleShoes\bin\Debug\EntityFramework.SqlServer.xml
+D:\SaleShoes\SaleShoes\obj\Debug\SaleShoes.exe
+D:\SaleShoes\SaleShoes\obj\Debug\SaleShoes.pdb
+D:\SaleShoes\SaleShoes\obj\Debug\SaleShoes.Trangchu.resources
+D:\SaleShoes\SaleShoes\obj\Debug\SaleShoes.thanhtoan.resources
+D:\SaleShoes\SaleShoes\obj\Debug\SaleShoes.donhangKH.resources
+D:\SaleShoes\SaleShoes\obj\Debug\SaleShoes.CTDH.resources
+D:\SaleShoes\SaleShoes\obj\Debug\SaleShoes.csprojResolveAssemblyReference.cache
+D:\SaleShoes\SaleShoes\obj\Debug\SaleShoes.admintrangchu.resources
+D:\SaleShoes\SaleShoes\obj\Debug\SaleShoes.TrangChuAdmin.resources
+D:\SaleShoes\SaleShoes\obj\Debug\SaleShoes.SuaTrangThai.resources
+D:\SaleShoes\SaleShoes\obj\Debug\SaleShoes.ThemSanPham.resources
+D:\SaleShoes\SaleShoes\obj\Debug\SaleShoes.QuanLiSanPham.resources
+D:\SaleShoes\SaleShoes\obj\Debug\SaleShoes.SuaSanPham.resources
+D:\SaleShoes\SaleShoes\obj\Debug\SaleShoes.XemDoanhThu.resources
+D:\SaleShoes\SaleShoes\obj\Debug\SaleShoes.TaoKhuyenMai.resources
+D:\SaleShoes\SaleShoes\obj\Debug\SaleShoes.QLKhuyenMai.resources
+D:\SaleShoes\SaleShoes\obj\Debug\SaleShoes.XemChiTietDH.resources
+D:\SaleShoes\SaleShoes\obj\Debug\SaleShoes.SuaThongTin.resources
+C:\Users\DELL\Desktop\Nhom1_IT2102_LTCSDL (1)\SaleShoes_IT2102_Nhom1\SaleShoes\bin\Debug\SaleShoes.exe.config
+C:\Users\DELL\Desktop\Nhom1_IT2102_LTCSDL (1)\SaleShoes_IT2102_Nhom1\SaleShoes\bin\Debug\SaleShoes.exe
+C:\Users\DELL\Desktop\Nhom1_IT2102_LTCSDL (1)\SaleShoes_IT2102_Nhom1\SaleShoes\bin\Debug\SaleShoes.pdb
+C:\Users\DELL\Desktop\Nhom1_IT2102_LTCSDL (1)\SaleShoes_IT2102_Nhom1\SaleShoes\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Desktop\Nhom1_IT2102_LTCSDL (1)\SaleShoes_IT2102_Nhom1\SaleShoes\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\Nhom1_IT2102_LTCSDL (1)\SaleShoes_IT2102_Nhom1\SaleShoes\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Desktop\Nhom1_IT2102_LTCSDL (1)\SaleShoes_IT2102_Nhom1\SaleShoes\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\Nhom1_IT2102_LTCSDL (1)\SaleShoes_IT2102_Nhom1\SaleShoes\obj\Debug\SaleShoes.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Nhom1_IT2102_LTCSDL (1)\SaleShoes_IT2102_Nhom1\SaleShoes\obj\Debug\SaleShoes.admintrangchu.resources
+C:\Users\DELL\Desktop\Nhom1_IT2102_LTCSDL (1)\SaleShoes_IT2102_Nhom1\SaleShoes\obj\Debug\SaleShoes.CTDH.resources
+C:\Users\DELL\Desktop\Nhom1_IT2102_LTCSDL (1)\SaleShoes_IT2102_Nhom1\SaleShoes\obj\Debug\SaleShoes.dangki.resources
+C:\Users\DELL\Desktop\Nhom1_IT2102_LTCSDL (1)\SaleShoes_IT2102_Nhom1\SaleShoes\obj\Debug\SaleShoes.dangnhap.resources
+C:\Users\DELL\Desktop\Nhom1_IT2102_LTCSDL (1)\SaleShoes_IT2102_Nhom1\SaleShoes\obj\Debug\SaleShoes.donhangKH.resources
+C:\Users\DELL\Desktop\Nhom1_IT2102_LTCSDL (1)\SaleShoes_IT2102_Nhom1\SaleShoes\obj\Debug\SaleShoes.Properties.Resources.resources
+C:\Users\DELL\Desktop\Nhom1_IT2102_LTCSDL (1)\SaleShoes_IT2102_Nhom1\SaleShoes\obj\Debug\SaleShoes.QLKhuyenMai.resources
+C:\Users\DELL\Desktop\Nhom1_IT2102_LTCSDL (1)\SaleShoes_IT2102_Nhom1\SaleShoes\obj\Debug\SaleShoes.QuanLiSanPham.resources
+C:\Users\DELL\Desktop\Nhom1_IT2102_LTCSDL (1)\SaleShoes_IT2102_Nhom1\SaleShoes\obj\Debug\SaleShoes.quenmk.resources
+C:\Users\DELL\Desktop\Nhom1_IT2102_LTCSDL (1)\SaleShoes_IT2102_Nhom1\SaleShoes\obj\Debug\SaleShoes.SuaSanPham.resources
+C:\Users\DELL\Desktop\Nhom1_IT2102_LTCSDL (1)\SaleShoes_IT2102_Nhom1\SaleShoes\obj\Debug\SaleShoes.SuaThongTin.resources
+C:\Users\DELL\Desktop\Nhom1_IT2102_LTCSDL (1)\SaleShoes_IT2102_Nhom1\SaleShoes\obj\Debug\SaleShoes.SuaTrangThai.resources
+C:\Users\DELL\Desktop\Nhom1_IT2102_LTCSDL (1)\SaleShoes_IT2102_Nhom1\SaleShoes\obj\Debug\SaleShoes.TaoKhuyenMai.resources
+C:\Users\DELL\Desktop\Nhom1_IT2102_LTCSDL (1)\SaleShoes_IT2102_Nhom1\SaleShoes\obj\Debug\SaleShoes.thanhtoan.resources
+C:\Users\DELL\Desktop\Nhom1_IT2102_LTCSDL (1)\SaleShoes_IT2102_Nhom1\SaleShoes\obj\Debug\SaleShoes.ThemSanPham.resources
+C:\Users\DELL\Desktop\Nhom1_IT2102_LTCSDL (1)\SaleShoes_IT2102_Nhom1\SaleShoes\obj\Debug\SaleShoes.Trangchu.resources
+C:\Users\DELL\Desktop\Nhom1_IT2102_LTCSDL (1)\SaleShoes_IT2102_Nhom1\SaleShoes\obj\Debug\SaleShoes.TrangChuAdmin.resources
+C:\Users\DELL\Desktop\Nhom1_IT2102_LTCSDL (1)\SaleShoes_IT2102_Nhom1\SaleShoes\obj\Debug\SaleShoes.XemChiTietDH.resources
+C:\Users\DELL\Desktop\Nhom1_IT2102_LTCSDL (1)\SaleShoes_IT2102_Nhom1\SaleShoes\obj\Debug\SaleShoes.XemDoanhThu.resources
+C:\Users\DELL\Desktop\Nhom1_IT2102_LTCSDL (1)\SaleShoes_IT2102_Nhom1\SaleShoes\obj\Debug\SaleShoes.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Nhom1_IT2102_LTCSDL (1)\SaleShoes_IT2102_Nhom1\SaleShoes\obj\Debug\SaleShoes.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Nhom1_IT2102_LTCSDL (1)\SaleShoes_IT2102_Nhom1\SaleShoes\obj\Debug\SaleShoes.csproj.CopyComplete
+C:\Users\DELL\Desktop\Nhom1_IT2102_LTCSDL (1)\SaleShoes_IT2102_Nhom1\SaleShoes\obj\Debug\SaleShoes.exe
+C:\Users\DELL\Desktop\Nhom1_IT2102_LTCSDL (1)\SaleShoes_IT2102_Nhom1\SaleShoes\obj\Debug\SaleShoes.pdb
